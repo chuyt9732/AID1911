@@ -1,0 +1,1 @@
+CREATE TABLE dept (id int PRIMARY KEY auto_increment,dname VARCHAR(50) not null);
